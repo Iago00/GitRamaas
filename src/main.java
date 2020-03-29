@@ -3,6 +3,7 @@ public class main {
         System.out.println("commit a");
         System.out.println("commit b");
         System.out.println("commit c");
+        System.out.println("commit d");
 
     }
 
